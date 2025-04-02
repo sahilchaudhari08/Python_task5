@@ -19,11 +19,3 @@ train_type = train(numbers)
 print('-------------------------------------')
 
 
-
-# Function 2
-# Check if Birth Years are Before or After 2000
-
-def birthYear(year):
-    if year > 2000:
-        print(year, 'after 2000 Childhood') 
-
